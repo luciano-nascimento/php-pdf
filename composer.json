@@ -1,0 +1,12 @@
+{
+    "name": "lucianonascimento/php-pdf",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
